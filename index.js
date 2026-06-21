@@ -1,3 +1,4 @@
+
 var input = prompt("Enter a word or Sentence :")
 
 var check = "";
